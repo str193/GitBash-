@@ -64,6 +64,4 @@ Number		Discription of checking		Expected result		Actual result		Comment
 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main
 
 10. Синхронизировать Внешнюю и Локальную ветки Main
->>>git checkout main
->>>git fetch
 >>> git pull
